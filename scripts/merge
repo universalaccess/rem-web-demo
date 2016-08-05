@@ -4,10 +4,10 @@
 // on the input filename (to preserve distinctions among data from different
 // files)
 
-var fs = require('fs-extra')
-var glob = require('glob')
-var argv = require('minimist')(process.argv.slice(2))
-var geojsonStream = require('geojson-stream')
+var fs = require('fs-extra');
+var glob = require('glob');
+var argv = require('minimist')(process.argv.slice(2));
+var geojsonStream = require('geojson-stream');
 
 var props = {}
 if (argv.p) {

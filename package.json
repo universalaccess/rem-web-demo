@@ -18,7 +18,7 @@
     "glob": "^7.0.3",
     "hat": "0.0.3",
     "lodash.flatten": "^4.2.0",
-    "mapbox-gl-supported": "^1.2.0",
+    "mapbox-gl": "^0.17.0",
     "mapbox-gl-layers": "^1.2.0",
     "mapbox-upload": "^4.2.2",
     "minimist": "^1.2.0",
